@@ -1,0 +1,16 @@
+# Copyright Notice — All Rights Reserved
+
+Copyright © 2026 [Hossein Naderi Varandi]. All Rights Reserved.
+
+This repository contains the hardware design and implementation of Number Theoretic Transform (NTT), Inverse Number Theoretic Transform (INTT), and Point-Wise Multiplication (PWM) for ML-KEM Post-Quantum Cryptography (PQC).
+
+**Terms of Use**
+
+- All source code, RTL designs, hardware architectures, and documentation are protected by copyright.
+- Use, reproduction, modification, redistribution, or commercial exploitation of this work is prohibited without prior written permission from the copyright holder, except as permitted by applicable law.
+- Any authorized use must include proper attribution to the original author and a reference to this repository.
+- Academic and research use also require prior written permission.
+
+For permission requests, please contact the copyright holder.
+
+**Author:** [Hossein Naderi Varandi]
